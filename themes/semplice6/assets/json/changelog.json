@@ -1,0 +1,16 @@
+{
+	"featured": [],
+	"changelog": [{
+		"label": "added",
+		"text": "Option to change the button label alignment for grid width buttons"
+	}, {
+		"label": "fixed",
+		"text": "Button label is now centered again per default for grid width buttons"
+	}, {
+		"label": "fixed",
+		"text": "Project nav arrows now display correctly"
+	}, {
+		"label": "fixed",
+		"text": "Copy mobile changes dropdown now works properly"
+	}]
+}

@@ -1,0 +1,176 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Semplice v6\n"
+"POT-Creation-Date: 2022-09-14 12:55+0200\n"
+"PO-Revision-Date: 2022-09-14 12:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: build\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+"X-Poedit-SearchPathExcluded-4: admin/js\n"
+"X-Poedit-SearchPathExcluded-5: includes/post-types\n"
+"X-Poedit-SearchPathExcluded-6: style.css\n"
+
+#: admin/editor/modules/blogposts.php:395
+msgid "No posts found for your tag,<br />category or search term."
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:816
+msgid "By"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:835
+msgid "Tagged:"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:844
+#: admin/editor/modules/blogposts.php:846 includes/helper/blog.php:397
+msgid "Comments"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:910
+msgid "Latest in:"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:914
+msgid "Written by:"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:921 rest_api.php:170
+msgid "Results for"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:990
+#: admin/editor/modules/blogposts.php:1002 includes/blog.php:104
+#: includes/blog.php:106
+msgid "Newer Posts"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:993
+#: admin/editor/modules/blogposts.php:1003 includes/blog.php:111
+msgid "Older Posts"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:1028
+msgid "min"
+msgstr ""
+
+#: admin/editor/modules/blogposts.php:1028
+msgid "read"
+msgstr ""
+
+#: functions.php:693
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/blog.php:281 includes/blog.php:283
+msgid "Read more"
+msgstr ""
+
+#: includes/blog.php:307
+msgid " in</span> "
+msgstr ""
+
+#: includes/blog.php:313
+msgid "Published by "
+msgstr ""
+
+#: includes/blog.php:366
+msgid "No Comments"
+msgstr ""
+
+#: includes/blog.php:368
+msgid " Comments"
+msgstr ""
+
+#: includes/blog.php:370
+msgid "1 Comment"
+msgstr ""
+
+#: includes/blog.php:374
+msgid "Comments are off for this post."
+msgstr ""
+
+#: includes/helper/blog.php:335
+msgid " at "
+msgstr ""
+
+#: includes/helper/blog.php:339
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/helper/blog.php:368
+msgid "Reply"
+msgstr ""
+
+#: includes/helper/blog.php:412
+msgid "No Comments."
+msgstr ""
+
+#: includes/helper/blog.php:416
+msgid "Comments are closed."
+msgstr ""
+
+#: includes/helper/blog.php:459
+msgid "Leave a reply"
+msgstr ""
+
+#: includes/helper/blog.php:459
+msgid "Reply to"
+msgstr ""
+
+#: includes/helper/blog.php:463
+msgid "Cancel reply"
+msgstr ""
+
+#: includes/helper/blog.php:464
+msgid "Post Comment"
+msgstr ""
+
+#: includes/helper/blog.php:466
+msgid "Your comment*"
+msgstr ""
+
+#: includes/helper/blog.php:471
+msgid "Author*"
+msgstr ""
+
+#: includes/helper/blog.php:472
+msgid "E-Mail Address*"
+msgstr ""
+
+#: includes/helper/blog.php:473
+msgid "Website"
+msgstr ""
+
+#: includes/helper/sharebox.php:59
+msgid "Share on"
+msgstr ""
+
+#: partials/password_form.php:17
+msgid "This content is protected."
+msgstr ""
+
+#: partials/password_form.php:18
+msgid "To view, please enter the password."
+msgstr ""
+
+#: partials/password_form.php:20
+msgid "Enter password"
+msgstr ""

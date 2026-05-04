@@ -1,0 +1,26 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Interface-Essential_Move_direction-button-arrows" data-name="Interface-Essential / Move / direction-button-arrows">
+    <g id="Group_722" data-name="Group 722">
+      <g id="direction-button-arrows">
+        <g id="Shape_3410" data-name="Shape 3410">
+          <path d="M50,100a2.17,2.17,0,0,1-2.17-2.17V2.17a2.17,2.17,0,0,1,4.34,0V97.83A2.17,2.17,0,0,1,50,100Z" transform="translate(0 0)"/>
+        </g>
+        <g id="Shape_3411" data-name="Shape 3411">
+          <path d="M97.83,52.17H2.17a2.17,2.17,0,0,1,0-4.34H97.83a2.17,2.17,0,0,1,0,4.34Z" transform="translate(0 0)"/>
+        </g>
+        <g id="Shape_3412" data-name="Shape 3412">
+          <path d="M15.22,65.22a2.14,2.14,0,0,1-1.54-.64l-13-13a2.18,2.18,0,0,1,0-3.08l13-13a2.17,2.17,0,1,1,3.07,3.07L5.25,50l11.5,11.51a2.17,2.17,0,0,1,0,3.07A2.13,2.13,0,0,1,15.22,65.22Z" transform="translate(0 0)"/>
+        </g>
+        <g id="Shape_3413" data-name="Shape 3413">
+          <path d="M50,100a2.16,2.16,0,0,1-1.54-.64l-13-13a2.17,2.17,0,1,1,3.07-3.07L50,94.75l11.51-11.5a2.17,2.17,0,1,1,3.07,3.07l-13,13A2.16,2.16,0,0,1,50,100Z" transform="translate(0 0)"/>
+        </g>
+        <g id="Shape_3414" data-name="Shape 3414">
+          <path d="M84.78,65.22a2.13,2.13,0,0,1-1.53-.64,2.17,2.17,0,0,1,0-3.07L94.75,50,83.25,38.49a2.17,2.17,0,1,1,3.07-3.07l13,13a2.18,2.18,0,0,1,0,3.08l-13,13A2.14,2.14,0,0,1,84.78,65.22Z" transform="translate(0 0)"/>
+        </g>
+        <g id="Shape_3415" data-name="Shape 3415">
+          <path d="M63,17.39a2.13,2.13,0,0,1-1.53-.64L50,5.25,38.49,16.75a2.17,2.17,0,1,1-3.07-3.07l13-13a2.18,2.18,0,0,1,3.08,0l13,13a2.17,2.17,0,0,1,0,3.07A2.14,2.14,0,0,1,63,17.39Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

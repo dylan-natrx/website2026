@@ -1,0 +1,40 @@
+# WordPress core — never track, always reinstall
+wp-admin/
+wp-includes/
+wp-*.php
+xmlrpc.php
+license.txt
+readme.html
+
+# Sensitive config
+wp-config.php
+.env
+*.env
+
+# Default WP themes — stock, reinstallable
+themes/twentytwenty*/
+themes/index.php
+themes/php.ini
+
+# Uploads — too large, managed separately
+wp-content/uploads/
+
+# Cache & generated files
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+
+# Node / build artifacts
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Deploy script secrets
+deploy-config.sh

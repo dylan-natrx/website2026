@@ -1,0 +1,30 @@
+{
+	"changelog": [{
+		"label": "fixed",
+		"text": "Now supporting 'transparent' as a value for motion gradients"
+	}, {
+		"label": "fixed",
+		"text": "Setting the scrub for scroll animations back to 0 caused problems in PHP7"
+	}, {
+		"label": "fixed",
+		"text": "After previewing an animation and exit the animation mode content styles got resettet"
+	}, {
+		"label": "fixed",
+		"text": "Existing styles on pasted text (when editing APG Grids) are now getting removed correctly"
+	}, {
+		"label": "fixed",
+		"text": "Styles (drop shadow, border) are now getting applied correctly to the single project module"
+	}, {
+		"label": "fixed",
+		"text": "Ordering posts for the advanced portfolio grid closed the edit popup"
+	}, {
+		"label": "fixed",
+		"text": "Project panel setting images per row now gets applied correctly on all breakpoints"
+	}, {
+		"label": "fixed",
+		"text": "Non sticky navbar on mobile was switched to sticky once a page transition started"
+	}, {
+		"label": "fixed",
+		"text": "Reveal transitions calculated the wrong height on safari ios"
+	}]
+}
